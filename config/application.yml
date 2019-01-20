@@ -1,0 +1,5 @@
+ADMIN_USERS: ryanhelsing@gmail.com
+REDIS: redis://localhost:6379
+BASE_URL: http://lvh.me:3000
+SECRET_KEY_BASE: c5cae5174f9510c4b87606aebc5bed077dce4555c089db0201aabe1fbccd874e5244b49779227c322c4527b1cb1a0bcdb6f09c576d18661063eee5972c2fdd5b
+DEBUGGER_CALL: binding.pry
